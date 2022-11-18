@@ -5,3 +5,4 @@ Some edit done to check if we can take care without any thing.
 =======
 This is comparision lecture
 >>>>>>> main
+This is stash lecture, change in main file 
